@@ -1,43 +1,31 @@
-# Chirpy Starter
+# Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+<img src="https://media.giphy.com/media/31vamYdZV5ISQ/giphy.gif" height="80" width="120px">
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+This is V.Balaji
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
+✨Embedded Firmware Engineer✨                                           
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
+:see_no_evil: :hear_no_evil: :speak_no_evil:
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
+🌏 Fragile, Please Take Care❣❗
 
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
-```
+👉 Wanna Know About Me? [**It's not who I am underneath, but what I do that defines me.**](https://linktr.ee/v.balaji)
 
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
-latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+✨Visitor Count
 
-## Usage
+![Visitor Count](https://profile-counter.glitch.me/MadeByBalaji/count.svg) 
 
-Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
 
-## Contributing
+<!---
+✨Welcome! You’re the ![Visitor Count](https://profile-counter.glitch.me/MadeByBalaji/count.svg) awesome human to visit this space 💫
+-->
+<!---
+<img src="https://media.tenor.com/2DS9Eu99SH0AAAAj/earth-terre.gif" height="100" width="120px">
 
-This repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.
-
-## License
-
-This work is published under [MIT][mit] License.
-
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+https://tenor.com/view/environment-earth-gif-20742984
+![](https://hit.yhype.me/github/profile?user_id=29356302)
+<p align="center">
+  <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=31orl5qap7z4fapgibglpas2gcxe&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true">
+</p>
+ ヾ(⌐■_■)ノ♪
+-->
