@@ -17,7 +17,7 @@ This is V.Balaji
 
 
 <!---
-✨Welcome! You’re the ![Visitor Count](https://profile-counter.glitch.me/MadeByBalaji/count.svg) awesome human to visit this space 💫
+✨Welcome! You’re the  ![Visitor Count](https://profile-counter.glitch.me/MadeByBalaji/count.svg) awesome human to visit this space 💫
 -->
 <!---
 <img src="https://media.tenor.com/2DS9Eu99SH0AAAAj/earth-terre.gif" height="100" width="120px">
