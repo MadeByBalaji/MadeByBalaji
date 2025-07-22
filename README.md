@@ -11,15 +11,14 @@ This is V.Balaji
 
 👉 Wanna Know About Me? [**It's not who I am underneath, but what I do that defines me.**](https://linktr.ee/v.balaji)
 
-✨Visitor Count
-
-![Visitor Count](https://profile-counter.glitch.me/MadeByBalaji/count.svg) 
-
-
 <!---
 ✨Welcome! You’re the  ![Visitor Count](https://profile-counter.glitch.me/MadeByBalaji/count.svg) awesome human to visit this space 💫
 -->
 <!---
+
+✨Visitor Count
+
+![Visitor Count](https://profile-counter.glitch.me/MadeByBalaji/count.svg) 
 <img src="https://media.tenor.com/2DS9Eu99SH0AAAAj/earth-terre.gif" height="100" width="120px">
 
 https://tenor.com/view/environment-earth-gif-20742984
